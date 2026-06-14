@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+streamlit
+typer
+apscheduler
+openai
+loguru
